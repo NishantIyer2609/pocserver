@@ -1,0 +1,18 @@
+[
+{"Name": "John Doe", "Age": 30, "Mobile": "1234567890", "Email": "john.doe@email.com", "BoD": "1993-01-15", "Disease": "Hypertension", "Gender": "M", "DOV": "2023-09-06"},
+{"Name": "Jane Smith", "Age": 28, "Mobile": "1234567891", "Email": "jane.smith@email.com", "BoD": "1995-05-22", "Disease": "Diabetes", "Gender": "F", "DOV": "2023-09-07"},
+{"Name": "Alice Johnson", "Age": 45, "Mobile": "1234567892", "Email": "alice.johnson@email.com", "BoD": "1978-03-14", "Disease": "Asthma", "Gender": "F", "DOV": "2023-09-08"},
+{"Name": "Michael Brown", "Age": 52, "Mobile": "1234567893", "Email": "michael.brown@email.com", "BoD": "1971-07-30", "Disease": "Arthritis", "Gender": "M", "DOV": "2023-09-09"},
+{"Name": "Emily White", "Age": 37, "Mobile": "1234567894", "Email": "emily.white@email.com", "BoD": "1986-02-19", "Disease": "Migraine", "Gender": "F", "DOV": "2023-09-10"},
+{"Name": "David Harris", "Age": 40, "Mobile": "1234567895", "Email": "david.harris@email.com", "BoD": "1983-06-11", "Disease": "Back Pain", "Gender": "M", "DOV": "2023-09-11"},
+{"Name": "Sarah Wilson", "Age": 33, "Mobile": "1234567896", "Email": "sarah.wilson@email.com", "BoD": "1990-04-17", "Disease": "Allergies", "Gender": "F", "DOV": "2023-09-12"},
+{"Name": "Robert Miller", "Age": 50, "Mobile": "1234567897", "Email": "robert.miller@email.com", "BoD": "1973-09-23", "Disease": "High Cholesterol", "Gender": "M", "DOV": "2023-09-13"},
+{"Name": "Lisa Davis", "Age": 26, "Mobile": "1234567898", "Email": "lisa.davis@email.com", "BoD": "1997-12-30", "Disease": "Anemia", "Gender": "F", "DOV": "2023-09-14"},
+{"Name": "Mark Evans", "Age": 38, "Mobile": "1234567899", "Email": "mark.evans@email.com", "BoD": "1985-05-20", "Disease": "Obesity", "Gender": "M", "DOV": "2023-09-15"},
+{"Name": "Laura Lee", "Age": 29, "Mobile": "1234567800", "Email": "laura.lee@email.com", "BoD": "1994-08-16", "Disease": "Anxiety", "Gender": "F", "DOV": "2023-09-16"},
+{"Name": "James Lopez", "Age": 47, "Mobile": "1234567801", "Email": "james.lopez@email.com", "BoD": "1976-01-04", "Disease": "GERD", "Gender": "M", "DOV": "2023-09-17"},
+{"Name": "Rebecca Martin", "Age": 31, "Mobile": "1234567802", "Email": "rebecca.martin@email.com", "BoD": "1992-11-07", "Disease": "Eczema", "Gender": "F", "DOV": "2023-09-18"},
+{"Name": "Daniel Clark", "Age": 34, "Mobile": "1234567803", "Email": "daniel.clark@email.com", "BoD": "1989-03-21", "Disease": "Hypothyroidism", "Gender": "M", "DOV": "2023-09-19"},
+{"Name": "Angela Hernandez", "Age": 42, "Mobile": "1234567804", "Email": "angela.hernandez@email.com", "BoD": "1981-10-09", "Disease": "Insomnia", "Gender": "F", "DOV": "2023-09-20"},
+{"Name": "Charles Lee", "Age": 36, "Mobile": "1234567805", "Email": "charles.lee@email.com", "BoD": "1987-07-14", "Disease": "Acid Reflux", "Gender": "M", "DOV": "2023-09-21"}
+]

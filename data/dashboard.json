@@ -1,0 +1,32 @@
+[
+    {
+      "cardname": "ed1",
+      "line1": "Total Appointments Today - 18",
+      "line2": "Pending Lab Results - 5",
+      "line3": "New Patients This Month - 12",
+      "line4": "Unresolved Patient Queries - 7"
+    },
+    {
+      "cardname": "ed2",
+      "line1": "You have total of 18 appointments today.",
+      "line2": "Kindly Check Calendar"
+    },
+    {
+      "cardname": "ed3",
+      "line1": "no patient alerts"
+    },
+    {
+      "cardname": "ed4",
+      "line1": "B2002, Joe - $150",
+      "line2": "B2003, Ana - $75"
+    },
+    {
+      "cardname": "ed5",
+      "line1": "Kindly set this in the Calendar."
+    },
+    {
+      "cardname": "ed6",
+      "line1": "No commits for today."
+    }
+  ]
+  
